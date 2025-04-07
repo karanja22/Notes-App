@@ -86,4 +86,5 @@ Notes-App/
 For questions or feedback, please contact:
 
 Email: frasiahnyambura22@gmail.com
-GitHub: [karanja22]
+
+GitHub: karanja22
