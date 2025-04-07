@@ -82,9 +82,8 @@ Notes-App/
     ├── pubspec.yaml        # Flutter dependencies
     └── [other files]       # Additional Flutter components
 ```
-## Contact 
-For questions or feedback, please contact:
+## Contact Information
+For any questions or feedback, please reach out to:
 
-Email: frasiahnyambura22@gmail.com
-
-GitHub: karanja22
+- **Email**: frasiahnyambyra22@gmail.com  
+- **GitHub**: [karanja22](https://github.com/karanja22)
