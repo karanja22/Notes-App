@@ -17,7 +17,7 @@ This application follows a client-server architecture:
 ## Technologies
 - **Django**: For building the backend API.
 - **Flutter**: For developing the cross-platform frontend.
-- **SQLite**: For lightweight data storage (or specify your database if different).
+- **SQLite**: For lightweight data storage.
 
 ## Getting Started
 
@@ -66,7 +66,7 @@ flutter run
 ```
 
 ## Usage
-1. Access the backend at http://localhost:8000 (or your specified port).
+1. Access the backend at http://localhost:8000.
 2. Use the Flutter app to interact with your notes, allowing you to create, view, and manage them.
 
 
